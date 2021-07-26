@@ -1,0 +1,61 @@
+
+
+html {
+    min-height: 100vh;
+    position: relative;
+
+}
+
+
+
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+i.key {
+    margin: 100px auto 10px auto;
+}
+
+footer  {
+    
+    position: absolute; 
+    bottom: 0;
+}
+
+footer p {
+    margin: 0 550px;
+}
+
+
+
+/* media quries  */
+@media (min-height: 320px) {
+    .ui.footer.form-page {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+}
+
+.ui-header h1 {
+    position: left;
+}
+
+.form i {
+    margin-top: 10px;
+    margin-left: -30px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
